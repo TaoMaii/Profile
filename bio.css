@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&family=Quicksand:wght@300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+    height: 100%;
+    background-image: url("https://forum.vendettagn.com/uploads/monthly_2016_08/tumblr_o41z2l2rnq1ugp61po1_1280.png.d63cb9310ce56193aa176e8ad4160180.png") ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg{
+    background-image: url("https://cdn.shopify.com/s/files/1/1999/7417/products/2001023_800x.jpg?v=1571340907") ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.profile{
+    height: 600px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+.profile .avatar{
+    height: ;
+}
+.profile .avatar img{
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+.profile .name{
+    margin: 5px;
+}
+.profile .introduce{
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.profile a button{
+    padding: 5px 10px;
+    border: 1px solid rgba(76, 134, 151, 0.534);
+    font-family: 'Quicksand', sans-serif;
+    border-style: double;
+    border-radius: 40px;
+    margin: 5px;
+    height: 50px;
+    background-color: rgba(53, 170, 206, 0.733) ;
+    color: white;
+}
+.profile a button:hover{
+    background-color: rgb(72, 131, 240);
+    color: white;
+    cursor: pointer;
+}
+.profile a button .icon{
+    font-size: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.profile .facebook{
+    display: flex;
+    width: 400px;
+    font-size: large ;
+    line-height: 30px;
+}
+.profile .insta{
+    display: flex;
+    width: 400px;
+    font-size: large ;
+    line-height: 30px;
+}
+.profile .mess{
+    display: flex;
+    width: 400px;
+    font-size: large ;
+    line-height: 30px;
+}
+
+
+.menu{
+    align-items: center;
+    text-align: center;
+}
+.menu .title {
+    font-size: 30px;
+    margin: 25px;
+}
+.menu .product {
+    display: inline-flex;
+    width: 500px;
+    text-align: center;
+    border:rgb(72, 131, 240);
+    background-color: rgba(72, 131, 240, 0.63);
+    border-radius: 10px;
+}
+.menu .product:hover{
+    background-color:rgba(31, 84, 182, 0.63) ;
+}
+.menu .product .left{
+    padding-left: 40px;color: white;
+}
+.menu .product img{
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+    padding: 20px;
+    margin-left: 30px;
+}
+.menu .product h4{
+    padding-top: 20px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.menu .product .đánhgiá{
+    margin: 5px;
+}
+.menu .product button{
+    background: ;
+    padding: 6px;
+    margin-top: 10px;
+    background: white;
+    cursor: pointer;
+}
