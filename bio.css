@@ -70,13 +70,13 @@ body{
     font-size: large ;
     line-height: 30px;
 }
-.profile .insta{
+.profile .tiktok{
     display: flex;
     width: 400px;
     font-size: large ;
     line-height: 30px;
 }
-.profile .mess{
+.profile .youtube{
     display: flex;
     width: 400px;
     font-size: large ;
