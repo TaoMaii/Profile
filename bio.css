@@ -13,13 +13,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.bg{
-    background-image: url("https://forum.vendettagn.com/uploads/monthly_2016_08/tumblr_o41z2l2rnq1ugp61po1_1280.png.d63cb9310ce56193aa176e8ad4160180.png") ;
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 .profile{
     height: 600px;
     width: 100%;
