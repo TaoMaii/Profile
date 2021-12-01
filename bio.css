@@ -14,7 +14,7 @@ body{
     background-size: cover;
 }
 .profile{
-    height: 3000px;
+    height: 1300px;
     width: 100%;
     align-items: center;
     text-align: center;
@@ -29,11 +29,11 @@ body{
     margin-bottom: 30px;
 }
 .profile .name{
-    margin: 150px;
+    margin: 5px;
 }
 .profile .introduce{
-    margin: 5px;
-    margin-bottom: 10px;
+    margin: 50px;
+    margin-bottom: 100px;
 }
 .profile a button{
     padding: 5px 10px;
