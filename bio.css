@@ -44,11 +44,11 @@ body{
     margin: 5px;
     height: 50px;
     background-color: rgba(53, 170, 206, 0.733) ;
-    color: red;
+    color: violet;
 }
 .profile a button:hover{
     background-color: rgb(72, 131, 240);
-    color: violet;
+    color: pink;
     cursor: pointer;
 }
 .profile a button .icon{
