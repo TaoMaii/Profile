@@ -7,14 +7,14 @@
 body{
     font-family: 'Quicksand', sans-serif;
     height: 100%;
-    background-image: url("https://startuanit.net/wp-content/uploads/2021/05/hinh-nen-galaxy8.jpg") ;
+    background-image: "blue" ;
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .profile{
-    height: 600px;
+    height: 100%;
     width: 100%;
     align-items: center;
     text-align: center;
