@@ -7,7 +7,7 @@
 body{
     font-family: 'Quicksand', sans-serif;
     height: 100%;
-    background-image: blue ;
+    background-image: url("https://startuanit.net/wp-content/uploads/2021/05/hinh-nen-galaxy8.jpg") ; ;
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -31,10 +31,7 @@ body{
 .profile .name{
     margin: 5px;
 }
-.profile .introduce{
-    margin: 5px;
-    margin-bottom: 10px;
-}
+
 
 .profile a button{
     padding: 5px 10px;
