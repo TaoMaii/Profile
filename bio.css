@@ -40,7 +40,7 @@ body{
     border: 1px solid rgba(76, 134, 151, 0.534);
     font-family: 'Quicksand', sans-serif;
     border-style: single;
-    border-radius: 100%;
+    border-radius: 100px;
     margin: 5px;
     height: 50px;
     background-color: rgba(53, 170, 206, 0.733) ;
