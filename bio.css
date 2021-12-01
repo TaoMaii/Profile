@@ -48,7 +48,7 @@ body{
 }
 .profile a button:hover{
     background-color: rgb(72, 131, 240);
-    color: pink;
+    color: white;
     cursor: pointer;
 }
 .profile a button .icon{
