@@ -14,7 +14,7 @@ body{
     background-size: cover;
 }
 .profile{
-    height: 10000px;
+    height: 3000px;
     width: 100%;
     align-items: center;
     text-align: center;
@@ -44,11 +44,11 @@ body{
     margin: 5px;
     height: 50px;
     background-color: rgba(53, 170, 206, 0.733) ;
-    color: white;
+    color: red;
 }
 .profile a button:hover{
     background-color: rgb(72, 131, 240);
-    color: yellow;
+    color: pink;
     cursor: pointer;
 }
 .profile a button .icon{
