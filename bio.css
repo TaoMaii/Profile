@@ -69,6 +69,13 @@ body{
     font-size: large ;
     line-height: 30px;
 }
+.profile .youtube{
+    display: flex;
+    width: 400px;
+    font-size: large ;
+    line-height: 30px;
+}
+
 .profile .insta{
     display: flex;
     width: 400px;
